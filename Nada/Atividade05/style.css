@@ -26,6 +26,8 @@ div{
 
 input{
     border-radius: 5px;
+    width: 40%;
+    margin-bottom: 2px;
 }
 
 button{
